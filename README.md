@@ -7,8 +7,8 @@ This Spotify-Clone project was developed by a group of four members, with the go
 ## Features
 
 <div align="center">
-  <img src="image.png" alt="home-page" style="border-radius: 40%; margin: auto; width: 60%;" />
-  <img src="image.png" alt="home-page" style="border-radius: 40%; width: 20%; margin-left: 40px;" />
+  <img src="image.png" alt="home-page" style="border-radius: 40%; margin: auto; width: 100%;" />
+  
 </div>
 
 - **Responsive Design:** The home and search pages are fully responsive, providing an optimal user experience across all devices, including desktops, tablets, and smartphones.
