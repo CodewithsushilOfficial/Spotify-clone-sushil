@@ -1,0 +1,17 @@
+/* .thisBox::before{
+    content: '';
+    height: 421px;
+    width: 361px;
+    background: black;
+    position: absolute;
+    top:-50% ;
+    left:-50% ;
+    z-index:1;
+    background:linear-gradient(0deg, transparent, transparent,teal , teal ,teal);
+    transform-origin:bottom right;
+    animation: animate 6s linear infinite;
+}
+@keyframes animate {
+    0% { transform:  rotate(0deg);  }
+    100% { transform:  rotate(360deg); }
+} */
